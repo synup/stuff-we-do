@@ -3,7 +3,7 @@
 Managed via [issues](https://github.com/synup/stuff-we-do/issues)
 
 
-## Message to Synup team
+### Message to Synup team
 
 Start [an issue](https://github.com/synup/stuff-we-do/issues/new) on the repo:
 
